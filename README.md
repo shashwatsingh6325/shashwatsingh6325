@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="530" height="360"/>
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="360" height="360"/>
 
 # 💫 About Me:
 🔭 I’m currently working on iOS App Development.<br>👯 I’m looking to collaborate on Web App Development.<br>🤝 I’m looking for help with Machine Learning.<br>🌱 I’m currently learning Machine Learning. <br>💬 Ask me about Anything Actually.<br>📫 How to reach me shashwatsingh0013@gmail.com<br>👨‍💻 All of my projects are available at https://github.com/shashwatsingh6325<br>📝 I regularly write articles on https://www.linkedin.com/in/shashwatsingh6325/<br>📄 Know about my experiences https://drive.google.com/file/d/17j9xGxcYAnz7A8CIKErfkHHW0CvI4839/view?usp=sharing<br>⚡ Fun fact I love to Cricket.
